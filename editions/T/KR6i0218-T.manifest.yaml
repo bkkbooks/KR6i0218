@@ -1,0 +1,254 @@
+canonical_identifier: bkk:krp/KR6i0218/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0218/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 思益梵天所問經
+  identifiers:
+    krp: KR6i0218
+    cbeta: T15n0586
+    cbeta_old_id: T15n0586
+    authorityid: CA0002763
+    json_key: T0586
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0586.xml
+    old_id: T15n0586
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0218_000-T.yaml, hash: 'sha256:b6a7c12f54f23fe8bfece2f6ae132b54e8b59d995f02754552ec2f1685f7134d'}
+  - {seq: 1, filename: KR6i0218_001-T.yaml, hash: 'sha256:ade2ff95821183b2ec003ee951dac82d84389ca41715c6ac92ec150b1decc97a'}
+  - {seq: 2, filename: KR6i0218_002-T.yaml, hash: 'sha256:be1b276003bf30ec3704bf52229639b1519fd73328c1abe23c26b9aecbeb0393'}
+  - {seq: 3, filename: KR6i0218_003-T.yaml, hash: 'sha256:6cac70243636fe7cba3bf8d42853bc6e557c447f36d8cf20a3767abf0e735eb6'}
+  - {seq: 4, filename: KR6i0218_004-T.yaml, hash: 'sha256:8027266706f8b22e1c4327812f641b7b798e201d34de449832a296f8cd54a6c6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0218_000-T.markers.yaml, hash: 'sha256:e3d346d27ac0f564760bc4918f14e91209e2f46e11c09a3069a7521f62d89b2b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0218_001-T.markers.yaml, hash: 'sha256:082b3accaf9c4c6ddd2dce7586ba11a233604249f1e550fa4cdaefb9caf3116c'}
+  - {seq: 2, role: markers, filename: assets/KR6i0218_002-T.markers.yaml, hash: 'sha256:2393cf0731f006ff4d2747daf08485d83874f2ba26ed6ce8bcd9a29270232800'}
+  - {seq: 3, role: markers, filename: assets/KR6i0218_003-T.markers.yaml, hash: 'sha256:0152f7d60f7f374c81d84922212450e9c9112a7465acca54e41314a22309f91a'}
+  - {seq: 4, role: markers, filename: assets/KR6i0218_004-T.markers.yaml, hash: 'sha256:80ccde6ee68daa25816b69c5808f6a1fff4c72c63c0d9a6a1377246d8e02c3a9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0218_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9436
+  label: 思益梵天所問經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0218_T_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 1 序品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0218_T_001-mulu-2
+    span:
+    - body
+    - 2590
+    - 2590
+  label: 2 四法品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0218_T_001-mulu-3
+    span:
+    - body
+    - 3943
+    - 3943
+  label: 3 分別品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0218_T_001-mulu-4
+    span:
+    - body
+    - 6893
+    - 6893
+  label: 4 解諸法品(一-二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0218_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9197
+  label: 思益梵天所問經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0218_T_002-mulu-1
+    span:
+    - body
+    - 2327
+    - 2327
+  label: 5 難問品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0218_T_002-mulu-2
+    span:
+    - body
+    - 5001
+    - 5001
+  label: 6 問談品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0218_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9879
+  label: 思益梵天所問經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0218_T_003-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 7 談論品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0218_T_003-mulu-2
+    span:
+    - body
+    - 2822
+    - 2822
+  label: 8 論寂品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0218_T_003-mulu-3
+    span:
+    - body
+    - 6611
+    - 6611
+  label: 9 仂行品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0218_T_003-mulu-4
+    span:
+    - body
+    - 7390
+    - 7390
+  label: 10 志大乘品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0218_T_003-mulu-5
+    span:
+    - body
+    - 9102
+    - 9102
+  label: 11 行道品(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0218_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 9470
+  label: 思益梵天所問經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0218_T_004-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 12 稱歎品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0218_T_004-mulu-2
+    span:
+    - body
+    - 297
+    - 297
+  label: 13 詠德品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0218_T_004-mulu-3
+    span:
+    - body
+    - 1063
+    - 1063
+  label: 14 等行品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0218_T_004-mulu-4
+    span:
+    - body
+    - 1536
+    - 1536
+  label: 15 授不退轉天子記品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0218_T_004-mulu-5
+    span:
+    - body
+    - 5799
+    - 5799
+  label: 16 建立法品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0218_T_004-mulu-6
+    span:
+    - body
+    - 7069
+    - 7069
+  label: 17 諸天歎品(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0218_T_004-mulu-7
+    span:
+    - body
+    - 8922
+    - 8922
+  label: 18 囑累品(四)
+  type: mulu
+  level: 1
+hash: sha256:f882f043778c03383c33af77a2e8547306fd3b3f3142dd1950facaac7f740966

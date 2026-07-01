@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0218/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 思益梵天所問經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0586.xml
+    old_id: T15n0586
+hash: sha256:b6a7c12f54f23fe8bfece2f6ae132b54e8b59d995f02754552ec2f1685f7134d
